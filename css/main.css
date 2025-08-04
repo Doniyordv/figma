@@ -1,0 +1,178 @@
+body{
+    width: 1440px;
+    height: 2726px;
+}
+
+
+.header{
+    width: 1440px;
+    height: 96px;
+    display: flex;
+    background-color: #fff;
+}
+
+.sitenav-list{
+    list-style: none;
+}
+
+.sitenav-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+
+.main-link{
+    background: #FF7500;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 100%;
+    text-align: center;
+}
+
+.index-hr{
+    width: 80px;
+    height: 3px;
+    background-color: #FF7500;
+    
+}
+
+.section-python{
+    background-color: #252420;
+    color: white;
+}
+
+.python-content{
+    width: 387px;
+}
+
+.hero-img{
+    width: 510px;
+    height: 510px;
+}
+
+.hero-heading{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+
+}
+
+.hero-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
+
+.site
+
+.feature-heading{
+    width: 435px;
+    height: 172px;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+}
+
+.feature-li{
+    width: 340px;
+}
+
+.feature-text{    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+
+
+}
+
+.feature-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+    color: #000000;
+
+}
+
+.feature-icon-bcolor{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 117, 0, 0.2);
+
+}
+
+.aksiya-content{
+    width: 440px;
+}
+
+.aksiya-header{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+
+}
+
+.section-aksiya{
+    background-color: #252420;
+    color: white;
+}
+
+.aksiya-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
+
+.aksiya-highlight{
+    color: #FF7500;
+}
+
+.aksiya-img{
+    width: 440px;
+    height: 440px;
+    object-fit: cover;
+}
+
+.site-footer-divider{
+    background-color: #25242080;
+    height: 2px;
+}
+
+.site-footer{
+    background-color: #F8F8F8;
+}
+
+.site-footer ul {
+    list-style: none;
+}
+
+
+.footer-havola{
+    text-decoration: none;
+}
+
+.site-footer-links{
+    width: 224px;
+}
+
+.site-footer-links a {
+    text-decoration: none;
+    color: #252420;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0px;
+}
+
