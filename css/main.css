@@ -15,6 +15,18 @@ body{
     background-color: #fff;
 }
 
+.logo-link{
+    transition: opacity 0.4s ease;
+}
+
+.logo-link:hover{
+    opacity: 0.8;
+}
+
+.logo-link:active{
+    opacity: 0.6;
+}
+
 .sitenav-list{
     list-style: none;
 }
@@ -26,7 +38,16 @@ body{
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
+    transition: color 0.4s ease,
+    opacity 0.4s ease;
+}
 
+.sitenav-link:hover{
+    color: #FF7500;
+}
+
+.sitenav-link:active{
+    opacity: 0.6;
 }
 
 .main-link{
@@ -37,6 +58,15 @@ body{
     font-size: 13px;
     line-height: 100%;
     text-align: center;
+    transition: opacity 0.4s ease;
+}
+
+.main-link:hover{
+    opacity: 0.8;
+}
+
+.main-link:active{
+    opacity: 0.6;
 }
 
 .index-hr{
@@ -167,6 +197,18 @@ body{
     text-decoration: none;
 }
 
+.site-footer-socials a{
+    color: #252420;
+}
+
+.site-footer-socials a:hover{
+    color: #FF7500;
+}
+
+.site-footer-socials a:focus{
+    opacity: 0.6;
+}
+
 .site-footer-links{
     width: 224px;
     line-height: 19px;
@@ -179,5 +221,13 @@ body{
     font-size: 16px;
     line-height: 100%;
     letter-spacing: 0px;
+}
+
+.site-footer-links a:hover{
+    color: #FF7500;
+}
+
+.site-footer-links a:focus{
+    opacity: 0.6;
 }
 
